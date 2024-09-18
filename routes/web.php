@@ -9,6 +9,6 @@ Route::get('/', function () {
 Route::get('/dash', function () {
     return view('welcome');
 });
-Route::get('/ikan', function () {
+Route::get('/contact', function () {
     return view('welcome');
 });
